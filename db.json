@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Ice Cream",
-      "category": 300,
+      "category": "Dessert",
       "imageUrl": "google.com",
       "price": 100,
       "isRecommended": true,
@@ -13,7 +13,7 @@
     {
       "id": "1",
       "name": "Ice Cream",
-      "category": 300,
+      "category": "Dessert",
       "imageUrl": "google.com",
       "price": 100,
       "isRecommended": true,
@@ -23,7 +23,7 @@
     {
       "id": "1",
       "name": "Ice Cream",
-      "category": 300,
+      "category": "Dessert",
       "imageUrl": "google.com",
       "price": 100,
       "isRecommended": true,
