@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1",
+      "name": "Ice Cream",
+      "category": "Dessert",
+      "imageUrl": "google.com",
+      "price": 100,
+      "isRecommended": true,
+      "isPopular": true,
+      "quantity": 12
+    },
+    {
+      "id": "1",
+      "name": "Ice Cream",
+      "category": "Dessert",
+      "imageUrl": "google.com",
+      "price": 100,
+      "isRecommended": true,
+      "isPopular": true,
+      "quantity": 12
+    },
+    {
+      "id": "1",
+      "name": "Ice Cream",
+      "category": "Dessert",
+      "imageUrl": "google.com",
+      "price": 100,
+      "isRecommended": true,
+      "isPopular": true,
+      "quantity": 12
+    }
+  ]
